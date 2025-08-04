@@ -1,0 +1,9 @@
+    # Advanced SQL Exercises
+
+This repository contains advanced SQL exercises solved using real-world inspired questions.
+
+## Exercises List
+
+- `abs_salary_difference/` - Calculate absolute difference between highest salaries in marketing and engineering departments.
+
+More exercises coming soon...
